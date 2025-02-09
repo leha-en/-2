@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<body>
+
 h1 { 
 border-width: 30px; 
 border-style:outset ; 
@@ -18,3 +21,4 @@ border-width: 1px;
 border-style: dotted; 
 border-color: blue; 
 } 
+</body>
